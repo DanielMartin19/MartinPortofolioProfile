@@ -1,5 +1,7 @@
 # Daniel Martin Portofolio Website
 
+![UIUXnya] (Resources/UXnya.png)
+
 ## Click this to use :
 <img src
 ### Based On:
